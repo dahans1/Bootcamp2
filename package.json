@@ -4,7 +4,7 @@
   "description": "Our application at this point has an issue one majore issue... \r - Each time the server starts, we reload the data from the same JSON file.",
   "main": "JSONtoMongo.js",
   "dependencies": {
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "should": "^13.2.3"
   },
   "devDependencies": {},
